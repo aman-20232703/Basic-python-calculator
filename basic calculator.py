@@ -1,5 +1,5 @@
 # Welcome to the Python Basic Calculator
-# This calculator performs addition, subtraction, multiplication, and division on two numbers.
+# This calculator performs addition, subtraction, multiplication, division, power ,modulus, factorial, sq.root and avg on two numbers.
 
 import math
 
